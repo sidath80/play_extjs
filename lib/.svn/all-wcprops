@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/project_ebw/!svn/ver/1434/trunks/supportutility/servicehub/lib
+END
+httpcore-4.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project_ebw/!svn/ver/1434/trunks/supportutility/servicehub/lib/httpcore-4.0.1.jar
+END
+service-util-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/project_ebw/!svn/ver/1434/trunks/supportutility/servicehub/lib/service-util-1.0.1.jar
+END
+libthrift-0.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/project_ebw/!svn/ver/1434/trunks/supportutility/servicehub/lib/libthrift-0.7.0.jar
+END
+httpclient-4.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project_ebw/!svn/ver/1434/trunks/supportutility/servicehub/lib/httpclient-4.0.1.jar
+END

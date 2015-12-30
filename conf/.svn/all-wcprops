@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/project_ebw/!svn/ver/1855/trunks/supportutility/servicehub/conf
+END
+application.conf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/project_ebw/!svn/ver/1855/trunks/supportutility/servicehub/conf/application.conf
+END
+dependencies.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/project_ebw/!svn/ver/1434/trunks/supportutility/servicehub/conf/dependencies.yml
+END
+routes
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/project_ebw/!svn/ver/1434/trunks/supportutility/servicehub/conf/routes
+END
+messages
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project_ebw/!svn/ver/1434/trunks/supportutility/servicehub/conf/messages
+END
